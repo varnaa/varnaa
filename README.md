@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varnaa</h1>
 
-- 🌱 I’m currently learning **how to build serverless applications using AWS**
+- 🌱 I’m currently learning **to build serverless applications using AWS and Java**
 
 - 👨‍💻 Here's my portfolio [https://varnaa.github.io/](https://varnaa.github.io/)
 
