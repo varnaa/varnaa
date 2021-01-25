@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **to build serverless applications using AWS.**
 
-- 👯 I’m looking to collaborate on **that involes java and spring boot**
+- 👯 I’m looking to collaborate on projects **that involes java and spring boot**
 
 - 👨‍💻 Here's my portfolio [https://varnaa.github.io/](https://varnaa.github.io/)
 
