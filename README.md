@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varnaa</h1>
-<h3 align="center"><i>Student, Programmer, Web Developer, Learner</i></h3>
+<h3 align="center">tudent, Programmer, Web Developer, Learner</h3>
 
 - 🌱 I’m currently learning **to build serverless applications using AWS.**
 
