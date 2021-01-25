@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varnaa</h1>
+<h3 align="center">Student, Undergraduate, Java Developer and Artist</h3>
 
-- 🌱 I’m currently learning **to build serverless applications using AWS and Java**
+- 🌱 I’m currently learning **to build serverless applications using AWS.**
+
+- 👯 I’m looking to collaborate on **that involes java and spring boot**
 
 - 👨‍💻 Here's my portfolio [https://varnaa.github.io/](https://varnaa.github.io/)
 
-- 📫 You can shoot me an email at **swethavarnaa@gmail.com**
+- 📫 How to reach me **swethavarnaa@gmail.com**
+
+- ⚡ Fun fact **Apart from coding, i do digital illustrations, binge watch series on netflix and listen to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
