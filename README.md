@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varnaa</h1>
 <h3 align="center">Student, Programmer, Web Developer, Learner</h3>
 
-- 🌱 I’m currently learning **to build serverless applications using AWS.**
+- 🌱 I’m currently learning **to build cloud native applications using AWS.**
 
 - 👯 I’m looking to collaborate on projects **that involes java and spring boot**
 
